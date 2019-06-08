@@ -1,1 +1,1 @@
-# minigame
+# minigame-react
